@@ -15,7 +15,7 @@
 <h2>pip install openai</h2>
 
 # Prerequisites (imports)
-<p>
+
 import speech_recognition as srec
 import webbrowser
 import pyttsx3  # for text to speech
@@ -23,7 +23,7 @@ import musiclib
 import requests
 import client
 from openai import OpenAI
-</p>
+
 
 # Dev-> CyRUS
 
