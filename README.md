@@ -16,13 +16,13 @@
 
 # Prerequisites (imports)
 
-import speech_recognition as srec
-import webbrowser
-import pyttsx3  # for text to speech
-import musiclib
-import requests
-import client
-from openai import OpenAI
+<h2>import speech_recognition as srec</h2>
+<h2>import webbrowser</h2>
+<h2>import pyttsx3  # for text to speech</h2>
+<h2>import musiclib</h2>
+<h2>import requests</h2>
+<h2>import client</h2>
+<h2>from openai import OpenAI</h2>
 
 
 # Dev-> CyRUS
